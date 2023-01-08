@@ -8,10 +8,7 @@ This Repository contains code for KPI Dashbboard Project. This is ML powered das
 Firstly, create a folder on your local Machine and Clone Repository using command
 
 ```bash
-
         git clone https://github.com/Kashif-Kamran/Final_Year_Project.git
-
-
 ```
 Repository Will get cloned to your local machine with name FYP_Dashboard_Project. This folder should consist of folders 
 * FYP_Dashboard_Project
@@ -26,40 +23,28 @@ Next step is to open terminals in for this you can manually go to the folders an
 #### a. Frontend
 To initialize the project and install packages write this command in frontend terminal. This will take a while and will install the packages going to be used for this project
 ```bash
-
         npm install --legacy-peer-deps
-
-
 ```
 #### b. Backend
 To initialize the project and install packages write this command in backend terminal. This will take a while and will install the packages going to be used for this project
 
 
 ```bash
-
         npm install
-
-
 ```
 
 ### Step 4 : Run Project
 #### a. Frontend
 To Run frontend react application you have to write 
 ``` bash
-
        npm start 
-
-
 ```
 #### b. Backend
 This will start backend for this application
 
 
 ```bash
-
         node server.js
-
-
 ```
 
 ## Contributing
